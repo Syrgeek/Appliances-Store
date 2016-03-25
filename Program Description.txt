@@ -1,0 +1,4 @@
+Problem Description: 
+Develop a class hierarchy whose root is an abstract class Appliance that has the general features of any appliance in an appliance store (e.g. make, mode, price, warranty, etc.). Then develop children classes representing WashingMachine, Refrigerator and Stove. Add at least 3 attributes and 3 operations to these appliances (other than constructor and setters and getters). 
+Then write a small Java program to simulate the appliance store that allows the owner to add new items to the appliances’ stock and to sell existing items. It is also possible to view or list the entire stock. Use polymorphism to be able to store the whole stock in an array of Appliance. Override toString method to be able to return a string representing the details of an appliance.
+Assume any necessary other details. Use as many OOP concepts as you can.
